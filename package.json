@@ -8,6 +8,7 @@
     "discord.js": "^12.5.3",
     "fstorm": "latest",
     "jimp": "latest",
+    "start": "node bot.js",
     "libsodium-wrappers": "latest",
     "opusscript": "latest",
     "ytdl-core": "latest"
