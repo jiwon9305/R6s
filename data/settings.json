@@ -1,1 +1,0 @@
-{"modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true],"libsodium-wrappers":["latest",true],"opusscript":["latest",true],"ytdl-core":["latest",true]},"client":"862486896545234975",access_token = os.environ["BOT_TOKEN"]"token":"access_token","ownerId":"862486896545234975","case":"false","tag":"!"}
