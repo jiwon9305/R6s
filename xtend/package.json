@@ -59,7 +59,7 @@
     "array"
   ],
   "license": "MIT",
-  "main": "immutable",
+  "main": "bot.js",
   "name": "xtend",
   "repository": {
     "type": "git",
